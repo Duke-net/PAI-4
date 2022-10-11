@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.uno{
+    text-align: center;
+    align-items: center;
+    /* border: 10px white solid; */
+    line-height: 10vh;
+}

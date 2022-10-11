@@ -1,0 +1,29 @@
+body { 
+    font-family: sans-serif;
+    background-color:#e22626;
+  }
+  form{    
+    width:500px;    
+    margin:20px auto;    
+    padding:20px;
+  }
+  form label {    
+    display:block;    
+    margin-bottom:5px;    
+    font-weight:bold;    
+    font-size:12px;    
+    color:#000000;
+  }
+  form textarea,form input{ 
+    padding:5px;
+    margin-bottom:25px;  
+    width:100%; 
+    box-sizing: border-box;
+  }
+  form input[type=submit] { 
+    cursor:pointer; 
+    margin-bottom:0px;
+  }
+  #H{
+    text-align: center;
+  }
