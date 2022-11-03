@@ -40,5 +40,13 @@ git status			/
 git commit -m "Komentarz"	/
 git push origin main		/
 --------------------------------/
+[BRANCH]		/
+--------------------------------/
+git branch branch-name - tworzenie brancha
+git push -u origin branch-name - przesłanie danych na brancha
+git checkout origin/branch-name - uruchamianie brancha który już istnieje
+git switch branch-name - przełączanie pomiedzy branchami
+--------------------------------/
+
 
 -#@$%*-#@$%*-#@$%*-#@$%*-#@$%*-#@$%*-#@$%*-#@$%*-#@$%*-#@$%*-#@$%*
